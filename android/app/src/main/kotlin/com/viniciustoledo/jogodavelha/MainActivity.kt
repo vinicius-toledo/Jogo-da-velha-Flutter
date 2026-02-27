@@ -1,4 +1,4 @@
-package com.example.jogo_da_velha_f
+package com.viniciustoledo.jogodavelha
 
 import io.flutter.embedding.android.FlutterActivity
 
